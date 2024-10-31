@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: nginx-deployment-toto
+  name: nginx-deployment-titi
 spec:
   selector:
     matchLabels:
